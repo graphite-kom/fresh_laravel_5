@@ -7,3 +7,4 @@ application_key.txt
 ._laravel.sublime-project
 ._laravel.sublime-workspace
 .DS_Store
+/nbproject
