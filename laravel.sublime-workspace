@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"pers",
+				"personnal"
+			],
+			[
+				"role",
+				"role_code"
+			],
+			[
+				"service",
+				"service_name"
+			],
+			[
+				"retu",
+				"return_value"
+			],
+			[
+				"maga",
+				"magasin_services_array"
+			],
+			[
+				"insee",
+				"insee_array"
+			],
+			[
+				"magasin",
+				"magasin_activite_id"
+			],
+			[
+				"unregistered",
+				"unregistered_activities_array"
+			],
+			[
+				"acti",
+				"activite"
+			],
+			[
+				"activite",
+				"activite_id"
+			],
+			[
+				"local",
+				"local_array"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"coun",
+				"COUNT"
+			],
+			[
+				"services",
+				"services_array"
+			],
+			[
+				"store",
+				"store_config"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"entre",
+				"entreprise"
+			],
+			[
+				"co",
+				"core"
+			],
+			[
+				"core",
+				"core_NIM"
+			],
+			[
+				"CORE",
+				"core_NIM"
+			],
+			[
+				"s",
+				"SELECT"
+			],
+			[
+				"foun",
+				"found_pdv_query"
+			],
+			[
+				"found",
+				"found_pdv_sql"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"module",
+				"module_seddif_data"
+			],
+			[
+				"res",
+				"reseau"
+			],
+			[
+				"return",
+				"return_array"
+			],
+			[
+				"csv",
+				"csv_export_url"
+			],
+			[
+				"rw",
+				"row_csv"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_row"
+			],
+			[
+				"tab",
+				"table_row"
+			],
+			[
+				"annon",
+				"annonces_found"
+			],
+			[
+				"machines",
+				"machines_found"
+			],
+			[
+				"machine",
+				"machine_found"
+			],
+			[
+				"pdv",
+				"pdv_found"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"ex",
+				"extract_mode"
+			],
+			[
+				"anim_fou",
+				"anim_found_id"
+			],
+			[
+				"pub",
+				"public_key"
+			],
+			[
+				"nim",
+				"nim_demo_array"
+			],
+			[
+				"error",
+				"Error"
+			],
+			[
+				"err",
+				"error_to_string"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 384.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demandes Emmanuelle/Nantes-Havas-Doublon/search.sql",
+		"/Volumes/web/Documents/Documentation Technique BimediaTV/procedure MAJ des bases et blacklists.txt",
+		"/private/etc/hosts",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/code_new/code.php",
+		"/Applications/MAMP/htdocs/pub-locales-com/application/modules/network/controllers/network.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/xmlspit/soap_test/soap_test_push.php",
+		"/Users/thierry/Desktop/infos.xml",
+		"/Volumes/web/laravel_project/laravel/application_key.txt",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/extra_data.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/generate_audiences_from_referentiel.php",
+		"/Volumes/BimediaTV/templiers-prod-old-websites/xxl_viladeco/fonctions.php",
+		"/Volumes/BimediaTV/templiers-prod-old-websites/xxl_viladeco/admin/bddAcces.php",
+		"/Volumes/BimediaTV/templiers-prod-old-websites/xxl_viladeco/accueil.php",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/Occupation Espace Commerçant/search.mysql",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/stores_config_list.txt",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Emilie/Compte Nickel - retrouver les nims/search.sql",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/store_config_list.txt",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/check_store_config.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/referentiel_to_file.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel/raw_referentiel_building.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel/raw_referentiel_download.php",
+		"/Volumes/web/git-compteur-de-diffusion/compteur-diffusion/libraries/config.inc.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel/nb_ecran_cron_v2.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel/ids_from_referentiel.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel/root_class.php",
+		"/Volumes/web/nodejs_learning/app_read_file.js",
+		"/Users/thierry/Desktop/rush.txt",
+		"/Volumes/web/ftp.templiers-prod.com.txt",
+		"/Users/thierry/Desktop/response.txt",
+		"/Users/thierry/.filezilla/sitemanager.xml",
+		"/Users/thierry/.filezilla/bookmarks.xml",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_saabentreprises/administration/contact.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_saabentreprises/administration/config.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_phobics/contact.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_maia/revuedepresse.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/www.invitationemea2008.com/administration/site/adm-01.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/www.invitationemea2008.com/administration/x_php/inc_strconn_func.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_fast-m/_mmServerScripts/MMHTTPDB.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_fast-m/boutique/admin/includes/configure.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_fast-m/_mmServerScripts/mysql.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_bodyminute/admin/affiliate_news.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_bodyminute/admin/includes/functions/database.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_bodyminute/admin/includes/configure.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_bodyminute/includes/application_top.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_blogpilotes/admin/index.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_blogpilotes/config.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_artparisabudhabiOFF/_secure/inc_strconn_func.php",
+		"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_apocalypticnight/site-access-infos.txt",
+		"/Applications/MAMP/htdocs/annonces-bimediatv-php5/admin/petitann_dispo.php",
+		"/Applications/MAMP/htdocs/annonces-bimediatv-php5/admin/annonces_dispo.php",
+		"/Applications/MAMP/htdocs/annonces-bimediatv-php5/admin/_traitements.php",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/Espace-Debitant-Seddif/search.sql",
+		"/Volumes/web/GetNetwork.php5",
+		"/Volumes/web/Salon-Belles-Montres/_ACCES.txt",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/config_class.php",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Emilie/Grazia-  PDV Seddif - Mars 2015/search.sql",
+		"/Volumes/web/Documents/Blacklists/Blacklist Seddif/search.sql",
+		"/Users/thierry/Documents/acces confidentiel/salon-homme/enregistrement-domaines-2014-03-11.txt",
+		"/Users/thierry/Desktop/villadeco.txt",
+		"/Users/thierry/Documents/Ressources Bimedia/Numéros de telephone.txt",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/verif_seddif.sql",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/serif_seddif.sql",
+		"/Applications/MAMP/htdocs/annonces-bimediatv-php5/visu_present.php",
+		"/Users/thierry/Documents/Demandes de requetes BDD/CRON VOTRE ESPACE/SQL.txt",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Emilie/PDV + Geoloc - Mars 2015/search.sql",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel/referentiel_to_core.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel/referentiel_to_services.php",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demandes Damien/PDV Presse Couponing - Mars 2015/search.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/Mai-2014/DN - Able Couponing/sql.txt",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demandes Damien/PDV Presse Couponing/search.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Emilie/PCS/Juin-2014-diffusion/Blacklist_couponing_et_diffusion/sql.txt",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/CSP Plus + tabac - Mars - 2015/search_marseille.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/CSP Plus + tabac - Mars - 2015/search_lyon.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/CSP-Plus-Fevrier-2015/search_marseille.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/CSP-Plus-Fevrier-2015/search_lyon.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/CSP-Plus-Fevrier-2015/search.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Catherine/CSP + tabac - Mars - 2015/search.sql",
+		"/Volumes/web/Documents/Blacklists/Blacklist Téléphonie/Blacklist Téléphonie - mars - 2015/search.sql",
+		"/Volumes/web/Documents/Blacklists/Blacklist ni tabac ni presse/sql.txt",
+		"/Volumes/web/Documents/Blacklists/Blacklist ecrans conso/sql.txt",
+		"/Volumes/web/Documents/Blacklists/Blacklist Dom-Tom/sql.txt",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Emilie/Sony Music - les enfoires/Mars - 2015/search.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demandes Emmanuelle/Villes de - de 100 k hab. + Presse/sql.txt",
+		"/Users/thierry/Documents/acces confidentiel/salonbellesmontres-com/Gandi.txt",
+		"/Users/thierry/Documents/acces confidentiel/salonbellesmontres-com/infos.txt",
+		"/Volumes/web/Salon-Belles-Montres/wp-config.php",
+		"/Users/thierry/Documents/acces confidentiel/salonbellesmontres-com/server_address.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/xmlspit/espaceAutomatic1AS3.php",
+		"/Volumes/web/PubPlayerAS3-local/boucle-ExpoPresse-2015/boucle-local.xml",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/prompt_test.php",
+		"/Users/thierry/Downloads/stat_records_nb_ecran.sql",
+		"/Volumes/BimediaTV/Spécifications techniques des animations BimediaTV/Spécifications techniques pour la vidéo.txt",
+		"/Users/thierry/Documents/Animations flash/Clients/Agio Cigares/Agio-cigares-Avril-2015/Flash/agioCIgares0415_AS3.html",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/nb_ecran_v3.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/root_class.php",
+		"/Volumes/web/git-compteur-de-diffusion/compteur-diffusion/interface/index.php",
+		"/Volumes/web/git-compteur-de-diffusion/compteur-diffusion/index.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/test.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/ids_from_referentiel.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/update_referentiel_new/nb_ecran_cron_v2.php",
+		"/Volumes/web/nodejs_learning/app.js",
+		"/Volumes/web/git-player/.gitignore",
+		"/Volumes/web/PubPlayerAS3-local/ExpoPresse-2015/boucle-local.xml",
+		"/Volumes/web/PubPlayerAS3-local/boucle-vierge-seddif-mag-presse/boucle-local.xml",
+		"/Volumes/web/bimediatv-com-php5.3/DEVPT/BIMINFO/biminfo_commande.php",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Emilie/TSI/Demat CA & Volume/janvier-2015/search.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demandes Emmanuelle/Meilleurs Faiseurs Moyens de Paiement - Mars 2015/search.sql",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Emilie/TSI/Demat CA & Volume/Decembre-2014/search.sql",
+		"/Volumes/web/Documents/Geolocate/core_geolocate_020315/geolocate_02-03-2015.txt",
+		"/Volumes/web/Documents/Geolocate/core_geolocate_020215/geolocate_02-02-2015.txt",
+		"/Volumes/web/bimediatv-com-php5.3/administration/x_crond/bimediatv_ventes_20150216.xml",
+		"/Volumes/web/bimediatv-com-php5.3/administration/x_crond/bimediatv_ventes_20150223.xml",
+		"/Volumes/web/bimediatv-com-php5.3/administration/x_crond/annonce_facture_cron.php",
+		"/Volumes/web/bimediatv-com-php5.3/administration/x_crond/bimediatv_ventes_20150225.xml",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/xmlspit/extractVentesBMTV.php",
+		"/Volumes/web/bimediatv-com-php5.3/screen/core/xmlspit/Synthese_des_ventes_032015.xml",
+		"/Volumes/web/Dumps/02-03-2015/core.sql",
+		"/Volumes/web/PubPlayerAS3-local/boucle-vierge-seddif-mag-presse/infodujourAS3jan2014.html",
+		"/Volumes/web/storage_rest/storage_rest/package.json",
+		"/Applications/MAMP/htdocs/salon-belles-montres/Site SBM/_ACCES.txt",
+		"/Volumes/web/Salon-Belles-Montres/.htaccess",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demandes Emmanuelle/PDV Presse + Couponing + Ecran Conso - dec 2014/sql.txt",
+		"/Users/thierry/Documents/Demandes de requetes BDD/Demande Emilie/Grazia/search.sql",
+		"/Volumes/web/bimediatv-com-php5.3/administration/site/list-05.php",
+		"/Volumes/web/bimediatv-com-php5.3/administration/site/list-05-sauvegarde-2015-02-26.php",
+		"/Volumes/web/bimediatv-com-php5.3/DEVPT/DISTANCE/wide_production_presse_couponing_distance_10km_0215.php",
+		"/Volumes/web/PubPlayerAS3-local/boucle-vierge-seddif-Maison-de-la-Presse/infodujourAS3jan2014.html",
+		"/Volumes/web/git-player/serveur/compteur-de-diffusion/index.php"
+	],
+	"find":
+	{
+		"height": 134.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/BimediaTV/templiers-prod-old-websites/xxl_viladeco",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_june26party",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_saabentreprises",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_phobics",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_maia",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/www.invitationemea2008.com",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_fast-m",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_bodyminute",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_blogpilotes",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_artparisnuits",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_artparisabudhabiOFF",
+			"/Users/thierry/Desktop/templiers-prod-old-websites/xxl_apocalypticnight",
+			"/Applications/MAMP/htdocs/annonces-bimediatv-php5/ticketV4",
+			"/Applications/MAMP/htdocs/annonces-bimediatv-php5",
+			"/Applications/MAMP/htdocs/annonces-bimediatv-php5fixerPrixTicket",
+			"/Applications/MAMP/htdocs/annonces-bimediatv-php5/ticketV4",
+			"/Volumes/web/git-player/serveur/compteur-de-diffusion",
+			"/Volumes/web/git-player/serveur/compteur-de-diffusion/libraries/Slim",
+			"/Volumes/web/git-player/serveur/compteur-de-diffusion",
+			"/Volumes/web/git-player/serveur/compteur-de-diffusion/libraries/Slim",
+			"<open folders>",
+			"/Volumes/web/Documents/Certification-PHP-Formation,/Volumes/web/git-player,<open folders>",
+			"/Volumes/web/Documents/Certification-PHP-Formation,/Volumes/web/git-player",
+			"/Volumes/web/Documents/Certification-PHP-Formation"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"emptyExtraDataTable",
+			"\n",
+			"\");",
+			"wsdl",
+			"\n",
+			",",
+			"0560189",
+			"0840300",
+			"categorie_agglo",
+			"portable",
+			"}\n",
+			"activite_main_array",
+			"path_to_ref_file",
+			"getPathToRefFile",
+			"5544",
+			"\n",
+			"5544",
+			"getMessage",
+			"file_put",
+			"2003",
+			"mysql",
+			"activites",
+			"services_main_array",
+			"services_array",
+			"getStoreArray",
+			"var_dump",
+			",",
+			"bar",
+			"store_config",
+			",",
+			"getWebServiceUrl",
+			"var_dump",
+			"assoc",
+			"fetch",
+			"1000-1240",
+			"raw_data_array",
+			"var_dump",
+			"nom_client",
+			"mysql",
+			"DB_DATABASE",
+			"Database",
+			"MySqlConnection",
+			"mysql",
+			"DB_DATABASE",
+			"function tep_db_query",
+			"tep_db_query",
+			"mysql",
+			"function x_query",
+			"x_query",
+			"mysql",
+			"query",
+			"mysql",
+			"query",
+			"AND core_SCREEN_state=2",
+			"geoloc_patrimoine_bmtv",
+			"include_screen",
+			"OptAnnonce",
+			"SERVICE",
+			"SERVICES",
+			";",
+			"link",
+			"getNbEcranRawArray",
+			"\n",
+			"core_extra_data",
+			"600",
+			"core_SCREEN_state",
+			"\n",
+			"<!-- <pub init=\"2\">4-DEMATERIALISATION_CS5.swf</pub> -->",
+			"<!-- <pub init=\"2\">2-NOUVEAUTE_LIBRAIRIE_CS5.swf</pub> -->",
+			"<!-- <pub init=\"2\">PRESSE.swf</pub> -->",
+			"NOUVEAUTE_PRESSE_CS5.swf",
+			"\"\n\"",
+			"insertIntoDatabase",
+			"core_extra_data",
+			"without_version_caisses_detail",
+			"\"",
+			"extra_data_table",
+			"core_extra_data",
+			"getEligiblePDV",
+			"`stat_records_nb_ecran`",
+			"ecran",
+			"parent",
+			"getExtraDataTable",
+			"emptyNbEcranTable",
+			"getNbEcranTable",
+			"try",
+			"get",
+			"`stat_records_nb_ecran`",
+			"$db",
+			"pdo",
+			"\n",
+			";",
+			"unlink",
+			"9542",
+			"`core`",
+			"headers_module",
+			"Header",
+			"session",
+			"$_SESSION",
+			"$csv_output",
+			"x_query($resQuery.$addQuery.\" ORDER BY annonce_bimedia.date DESC;\");",
+			"$csv_output",
+			"session_id()",
+			"session_id",
+			"Date From",
+			"$diffDate",
+			"$nbre_vente",
+			"$vente",
+			"!]]></",
+			"<form",
+			"annulation",
+			"annonce_rem",
+			"plan_ann",
+			"pub 1 sem",
+			"$label",
+			"require_once",
+			"new",
+			"$tab_annonce",
+			"$nbre_vente",
+			"$arrCount",
+			"montant(",
+			"id_produit(",
+			"montant(",
+			"$annonce",
+			"id_produit",
+			"0000000",
+			"fixerPrixTicket",
+			"plan_ann_rem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"', '",
+			";",
+			"', '",
+			",\n",
+			"stores_config",
+			", ",
+			"', '",
+			"\n",
+			"', '",
+			";",
+			"<pub init=\"2\">BIX010_Boucles_Flash_BimediaTV_V3/DEMATERIALISATION.swf</pub>",
+			"<pub init=\"2\">BIX010_Boucles_Flash_BimediaTV_V3/LIBRAIRIE.swf</pub>",
+			"<pub init=\"2\">BIX010_Boucles_Flash_BimediaTV_V3/PRESSE.swf</pub>",
+			"PRESSE.swf",
+			"', '",
+			"'",
+			"`stat_records_nb_ecran_test_2015`",
+			"emptyExtraDataTable",
+			"getExtraDataTable",
+			"`stat_records_nb_ecran_test_2015`",
+			", ",
+			"', '",
+			"\n",
+			"`core_sem2015_09`",
+			"\"",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 234.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}

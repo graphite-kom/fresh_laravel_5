@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+application_key.txt
+._.DS_Store
+._application_key.txt
+._laravel.sublime-project
+._laravel.sublime-workspace
+.DS_Store
